@@ -1,4 +1,4 @@
 # gearheadsandgamers.com
-Temp: https://imthepeach.github.io/gearheadsandgamers.com/
+Temp: https://gearheadsandgamers.github.io/gearheadsandgamers.com/
 
 http://gearheadsandgamers.com soon
