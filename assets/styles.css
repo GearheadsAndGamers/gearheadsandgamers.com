@@ -73,15 +73,15 @@ body {
   background-color: rgba(242, 242, 242, 0.6);
 }
 
-.poweredby a {
+.mission a {
   text-decoration: none;
   display: inline-block;
   font-size: 14px;
 }
-.poweredby a:visited {
+.mission a:visited {
   color: initial;
 }
-.poweredby p {
+.mission p {
   margin: 9px 4px 9px 0;
   font-weight: 300;
   color: #fff;
