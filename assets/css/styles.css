@@ -128,10 +128,11 @@ body {
 
 .footer {
     bottom: 0;
-    height: 30px;
+    height: 5px;
     left: 0;
+    padding-left: 3px;
     position: absolute;
     width: 100%;
     text-align: left;
-    font-size: 12px;
+    font-size: 10px;
 }
